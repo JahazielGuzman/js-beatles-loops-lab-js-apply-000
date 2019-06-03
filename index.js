@@ -24,7 +24,6 @@ function johnLennonFacts(facts) {
   }
   
   return exclamations;
-<<<<<<< HEAD
 }
 
 function iLoveTheBeatles(num) {
@@ -39,6 +38,4 @@ function iLoveTheBeatles(num) {
   } while (num < 15);
   
   return arr;
-=======
->>>>>>> 754c1ec0ac215b5d6448780d59c602e9f5f39a65
 }
